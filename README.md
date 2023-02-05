@@ -1,2 +1,2 @@
 # masato402.github.io
-[faq](contents/faq.md)
+[about me](misc/about_me.md) | [faq](misc/faq.md)
