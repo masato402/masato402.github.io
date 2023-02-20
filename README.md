@@ -2,11 +2,6 @@
 [about me](misc/about_me.md) | [faq](misc/faq.md) <br>
 
 # List
-<details>
-<summary> Lain-lain </summary>
-<p>
 
-> [1. Tips & Trick Olimpiade](contents/etc/tips_trick_olim.md) <br>
-
-</p>
-</details>
+### Lain-lain
+[1. Tips & Trick Olimpiade](contents/etc/tips_trick_olim.md) <br>
