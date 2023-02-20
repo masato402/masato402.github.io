@@ -2,4 +2,5 @@
 
 <details>
 <summary> Lain-lain </summary>
-</details
+[1. Tips & Trick Olimpiade]()
+</details>
